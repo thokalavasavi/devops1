@@ -4,3 +4,4 @@ git is simple
 global
 environment
 welcome to the world
+practice makes man perfect
